@@ -2,13 +2,13 @@
 layout: default
 ---
 
-![Branching](https://github.com/vaibhavvikas/vaibhavvikas/raw/main/src/header_.png)
+![Branching](/assets/img/header.JPG)
 
 <hr>
 
 # About Me
 
-My name is **Raul Penagos**, I am a Physics student at University of Cantabria. 
+My name is **Raul Penagos Solórzano**, I am a Physics student at University of Cantabria. 
 
 <hr>
 
@@ -16,55 +16,97 @@ My name is **Raul Penagos**, I am a Physics student at University of Cantabria.
 - **University of Cantabria**
     - Undergrad - Physics
     - 2021-Present
-
-# High School
 - **IES Ntra. Sra. de los Remedios**
+    - Science and Technology Bachelor
 
 <hr>
 
 ### Aditional training
-- **5th HEP C++ Course and Hands-on Training**
-    - [Zoom](https://indico.cern.ch/event/1172498/) - October 11 - 13, 2022
-
-- **Fermilab C++/STL class**
-    - Zoom - August 2020
-
-- **Machine learning Workshop - Hackaton**
-    - UPRM Campus - May 2019
+- **The streets my brother**
 
 <hr>
 
 # Skills
 - **Programming languages**
-    - **C++** 
     - **Python**
-        - Tkinter
         - Matplotlib
         - Numpy
         - Pandas
         - OpenCV
-- **LabVIEW**
-- **Wire Bonder**
-- **CAD (Computer-Aided Design)**
-    - **Autodesk**
-        - **Inventor**
-        - **Fusion360**
-        - **Tinkercad**
-    - **Siemens NX**
-    - **Solidworks**
-- **Microcontroller programming and setup**
-    - **Arduino**
-    - **Raspberry Pi**
-- **IoT (Internet of Things)**
-- **3D prining**
+    - **Matlab**
+- **Software**
+    - **ImageJ**
+    - **Geant4**
+- **GitHub Branching**
+- **Data Analysis**
+    - **Excel**
+    - **Jupyter Notebook**
+- **Physics**
+    - *Radiophysics*
+    - *Physics of Earth*
+    - *Optics*
+    - *Quantum Mechanics*
+    - *Thermodynamics*
+    - *Electromagnetism*
+    - *Particle Physics*
 - **Latex**
 - **Webpage developer**
     - **HTML**
     - **CSS**
+- **Photography**
 
 <hr>
 
 # Experience
+
+<div class="card">
+<img src="/assets/img/UC.png" style="float:right;height:50px;">
+  <h3>Undergrad research with the professor Pablo Martinez Ruiz del Arbol</h3>
+  <ul>
+    <li>June 2024 - August 2024</li>
+    <ul>
+    <li style="margin-left:2em">Beca Colaboración Investigación, Things I did...</li>
+    </ul>
+  </ul>
+</div>
+
+
+<div class="card">
+<img src="/assets/img/brown-university.png" style="float:right;height:60px;">
+  <h3>Undergrad research with the professor Ulrich Heintz</h3>
+  <ul>
+    <li>June 2024 - August 2024</li>
+    <ul>
+    <li style="margin-left:2em">Things I did...</li>
+    </ul>
+  </ul>
+</div>
+
+<div class="card">
+<img src="/assets/img/neshoba.png" style="float:right;width:50px;height:50px;">
+  <h3>11th Grade Student</h3>
+  <ul>
+    <li>September 2019 - March 2020</li>
+    <ul>
+    <li style="margin-left:2em">Baseball Team</li>
+    <li style="margin-left:2em">Soccer Team</li>
+    <li style="margin-left:2em">Science Club</li>
+    <li style="margin-left:2em">Things I learnt...</li>
+    </ul>
+  </ul>
+</div>
+
+<div class="card">
+<img src="/assets/img/fao.png" style="float:right;height:40px;">
+  <h3>Exchange Experience</h3>
+  <ul>
+    <li>Philadeplphia (MS)</li>
+    <li>September 2019 - March 2020</li>
+    <ul>
+    <li style="margin-left:2em">Things I learnt...</li>
+    </ul>
+  </ul>
+</div>
 
 <div class="card">
 <img src="/assets/img/brown-university.png" style="float:right;width:32.3px;height:55px;">
@@ -86,17 +128,17 @@ My name is **Raul Penagos**, I am a Physics student at University of Cantabria.
 </div>
 
 
-<div class="card">
-<img src="/assets/img/brown-university.png" style="float:right;width:50px;height:50px;">
-  <h3>Undergrad research with the professor Ulrich Heintz</h3>
-  <ul>
-    <li>June 2024 - August 2024</li>
-    <ul>
-    <li style="margin-left:2em">Optics</li>
-    </ul>
-  </ul>
-</div>
-
 <hr>
 
 
+# Further into myself:
+
+[... See all projects](./projects)
+
+[... See my hobbies](./hobbies)
+
+
+<!-- 
+<a href="https://directory.brown.edu/uuid/1a611639-a7e8-4783-91f7-9b28dde8eecc" > Brown </a>
+
+ <a href="./projects" > Brown </a> -->

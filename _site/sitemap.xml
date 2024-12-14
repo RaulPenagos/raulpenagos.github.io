@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>http://localhost:4000/hobbies</loc>
+</url>
+<url>
+<loc>http://localhost:4000/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/projects</loc>
+</url>
+<url>
+<loc>http://localhost:4000/assets/files/Raul_Penagos_CV.pdf</loc>
+<lastmod>2024-12-14T19:55:14+01:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/files/SUPER_Final_Report.pdf</loc>
+<lastmod>2024-12-14T17:40:44+01:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/files/Simposio.pdf</loc>
+<lastmod>2024-12-14T17:40:44+01:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/files/TIM_deposition_and_characterization.pdf</loc>
+<lastmod>2024-12-14T17:40:45+01:00</lastmod>
+</url>
+</urlset>

@@ -1,5 +1,13 @@
 # Yarelis D. Acevedo-Rios
 
+
+<!-- Thing I needed using cmd 
+Fix missing gems:
+    bundle --full-index
+Serve page:
+    jekyl serve
+    
+    -->
 My portfolio built using [Minimalistic](https://github.com/vaibhavvikas/jekyll-theme-minimalistic).
 
 
