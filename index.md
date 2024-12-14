@@ -8,7 +8,7 @@ layout: default
 
 # About Me
 
-My name is **Raul Penagos Solórzano**, I am a Physics student at University of Cantabria. 
+My name is **Raúl Penagos Solórzano**, I am a Physics student at University of Cantabria. 
 
 <hr>
 

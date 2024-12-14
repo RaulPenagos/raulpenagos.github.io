@@ -4,7 +4,7 @@ permalink: /hobbies
 ---
 **[Home](/) >> Hobbies**
 
-## Projects:
+## My hobbies:
 
 <!-- Should create another type of div class
 so I can include one pciture easily for every hobbie -->
