@@ -120,7 +120,7 @@ My two overseas experiences in the United States of America have shaped me as a 
 
 # Further into myself:
 
-[... See all projects](./projects)
+<!-- [... See all projects](./projects) -->
 
 [... See my hobbies](./hobbies)
 
