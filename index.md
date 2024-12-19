@@ -8,9 +8,10 @@ layout: default
 
 # About Me
 
-My name is **Raúl Penagos Solórzano**, I am a Physics student at University of Cantabria. I have interest in the medical, industrial and environmental applications of my studies, which I find to be a main root to understand today's world. I am a very dedicated and trustworthy person that feels rewarded when doing his best. 
+<!-- TENGO QUE CAMBIAR EL LOGO DE LA WEB -->
+My name is **Raúl Penagos Solórzano**, I am a Physics student at University of Cantabria. I have interest in the medical, industrial and environmental applications of my academic field of study: Physic, which I find to be a main root to understand today's world. I am a very dedicated and trustworthy person that feels rewarded when doing his best. 
 
-My two overseas experiences in the United States of America have shaped me as a really open minded and self-aware individual, who has a lot to learn and give when working with others. I find myself as an open book, willing to write new chapters.  
+My two overseas experiences in the United States of America have shaped me as a really open minded and self-aware individual, who has a lot to learn and give when working with others. I find myself as an open book, willing to write new chapters in my story.  
 
 <hr>
 
