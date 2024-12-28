@@ -1,13 +1,14 @@
-# Yarelis D. Acevedo-Rios
+# Raúl Penagos Solórzano
 
 
-<!-- Thing I needed using cmd 
+<!-- Things I needed using cmd to run the website:
+
 Fix missing gems:
     bundle --full-index
 Serve page:
-    jekyl serve
-    
+    jekyl serve 
     -->
+    
 My portfolio built using [Minimalistic](https://github.com/vaibhavvikas/jekyll-theme-minimalistic).
 
 

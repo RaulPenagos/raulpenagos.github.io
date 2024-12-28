@@ -36,8 +36,9 @@ My two overseas experiences in the United States of America have shaped me as a 
 
 <div class="card">
 <img src="/assets/img/UC.png" style="float:right;height:50px;">
-  <h3>Undergrad research with the professor Pablo Martinez Ruiz del Arbol</h3>
+  <h3>Undergrad research, TFG</h3>
   <ul>
+    <li>Professor Pablo Martinez Ruiz del Arbol, IFCA (Instituto de Física de Cantabria)</li>
     <li>June 2024 - August 2024</li>
     <ul>
     <li style="margin-left:2em">Beca Colaboración Investigación MEC (Ministerio de Educación y Ciencia de España)</li>
@@ -49,8 +50,9 @@ My two overseas experiences in the United States of America have shaped me as a 
 
 <div class="card">
 <img src="/assets/img/brown-university.png" style="float:right;height:60px;">
-  <h3>Undergrad research with the professor Ulrich Heintz</h3>
+  <h3>Brown University undergrad research</h3>
   <ul>
+    <li>Professor Ulrich Heintz's CMS group.</li>
     <li>June 2024 - August 2024</li>
     <ul>
     <li style="margin-left:2em">Assisting with the assembly and testing of High Luminosity CMS OT Silicon detectors.</li>
@@ -67,6 +69,7 @@ My two overseas experiences in the United States of America have shaped me as a 
 <img src="/assets/img/neshoba.png" style="float:right;width:50px;height:50px;">
   <h3>11th Grade Student in the USA</h3>
   <ul>
+    <li>Part of the FAO grant program.</li>
     <li>September 2019 - March 2020</li>
     <li>Neshoba Central High School, Philadelphia (MS)</li>
     <ul>
@@ -77,10 +80,10 @@ My two overseas experiences in the United States of America have shaped me as a 
 
 <div class="card">
 <img src="/assets/img/fao.png" style="float:right;height:40px;">
-  <h3>International Exchange Experience</h3>
+  <h3>Fundación Amancio Ortega FAO Exchange Experience</h3>
   <ul>
     <li>September 2019 - March 2020</li>
-    <li>Spent several months living with a local family in Philadeplphia (MS) getting to know the American culture while improving my English.</li>
+    <li>Spent several months living with a local family in Philadeplphia (MS), getting to know the American culture while improving my English.</li>
   </ul>
 </div>
 
@@ -93,8 +96,6 @@ My two overseas experiences in the United States of America have shaped me as a 
     - **Python**
         - Matplotlib
         - Numpy
-        - Pandas
-        - OpenCV
     - **Matlab**
 - **Software**
     - **ImageJ**
@@ -112,9 +113,11 @@ My two overseas experiences in the United States of America have shaped me as a 
     - *Electromagnetism*
     - *Particle Physics*
 - **Latex**
-- **Webpage developer**
+- **Website developing**
     - **HTML**
     - **CSS**
+    - **Markdown**
+    - **Jekyll**
 - **Photography**
 
 <hr>
@@ -123,7 +126,7 @@ My two overseas experiences in the United States of America have shaped me as a 
 
 <!-- [... See all projects](./projects) -->
 
-[... See my hobbies](./hobbies)
+[... Some of my hobbies](./hobbies)
 
 
 <!-- 
