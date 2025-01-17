@@ -52,6 +52,20 @@
   font: 15px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
+.hobbies {
+  display: flex; /* Para organizar los elementos en fila horizontal */
+  justify-content: space-between; /* Espacio entre contenido e imagen */
+}
+
+.hobbies img {
+  height: 100%; /* Ajustar la altura de la imagen al tamaño del div */
+  object-fit: cover; /* Para que mantenga las proporciones adecuadas */
+  margin-left: 10px; /* Espaciado entre el texto y la imagen */	
+}
+
+
+
+
 @media screen and (max-width: 700px){
   .box {
     width: 70%;

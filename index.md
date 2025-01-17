@@ -8,10 +8,10 @@ layout: default
 
 # About Me
 
-<!-- TENGO QUE CAMBIAR EL LOGO DE LA WEB -->
-My name is **Raúl Penagos Solórzano**, I am a Physics student at University of Cantabria. I have interest in the medical, industrial and environmental applications of my academic field of study: Physic, which I find to be a main root to understand today's world. I am a very dedicated and trustworthy person that feels rewarded when doing his best. 
+<!-- TENGO QUE CAMBIAR EL LOGO (Pestañas) DE LA WEB -->
+My name is **Raúl Penagos Solórzano**, I am a Physics student at University of Cantabria. I keen on the medical, industrial and environmental applications of my academic field of study: Physic, which I find to be a main root to understand today's world. I am a very dedicated and trustworthy person that feels specially rewarded when doing his best. 
 
-My two overseas experiences in the United States of America have shaped me as a really open minded and self-aware individual, who has a lot to learn and give when working with others. I find myself as an open book, willing to write new chapters in my story.  
+My two overseas experiences in the United States of America have shaped me as a really open minded and self-aware individual, who has a lot to learn and give when working with others. I picture myself as an open book, willing to write new chapters in my story.  
 
 <hr>
 
@@ -38,7 +38,7 @@ My two overseas experiences in the United States of America have shaped me as a 
 <img src="/assets/img/UC.png" style="float:right;height:50px;">
   <h3>Undergrad research, TFG</h3>
   <ul>
-    <li>Professor Pablo Martinez Ruiz del Arbol, IFCA (Instituto de Física de Cantabria)</li>
+    <li>Professor Pablo Martinez Ruiz del Arbol, IFCA</li>
     <li>June 2024 - August 2024</li>
     <ul>
     <li style="margin-left:2em">Beca Colaboración Investigación MEC (Ministerio de Educación y Ciencia de España)</li>
