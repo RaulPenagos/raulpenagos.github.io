@@ -18,7 +18,7 @@ My two overseas experiences in the United States of America have shaped me as a 
 # Education
 - **University of Cantabria**
     - Undergrad - Physics
-    - 2021-Present
+    - 2021-Present. <a href="./assets/files/CalificacionesExpediente.pdf">See Grades Report</a>
 - **IES Ntra. Sra. de los Remedios**
     - Science and Technology Bachelor (2<sup>nd</sup> year)
 - **Neshoba Central High-School**
@@ -27,8 +27,10 @@ My two overseas experiences in the United States of America have shaped me as a 
 <hr>
 
 ### Aditional training
-- Lab safety training: Brown University
+- Lab safety training: <a href="./assets/files/certificateLabSafety.pdf">Brown University</a>
+- Waste Treatment training: <a href="./assets/files/certificateWasteTreatment.pdf">Brown University</a>
 - Basic Fire extinguishing training: Brown University
+- English Certificate: <a href="./assets/files/APTIS_NoID.pdf"> APTIS B2</a>
 
 <hr>
 
@@ -36,12 +38,12 @@ My two overseas experiences in the United States of America have shaped me as a 
 
 <div class="card">
 <img src="/assets/img/UC.png" style="float:right;height:50px;">
-  <h3>Undergrad research, TFG</h3>
+  <h3>Beca Colaboración Investigación MEC</h3>
   <ul>
     <li>Professor Pablo Martinez Ruiz del Arbol, IFCA</li>
-    <li>June 2024 - August 2024</li>
+    <li>November 2024 - present</li>
     <ul>
-    <li style="margin-left:2em">Beca Colaboración Investigación MEC (Ministerio de Educación y Ciencia de España)</li>
+    <li style="margin-left:2em">Undergrad research, TFG. Beca MEC (Ministerio de Educación y Ciencia de España)</li>
     <li style="margin-left:2em">Working on assembly and development of a Proton Axial Tomography (TAC) medical image system using CMS Inner tracker ETL detectors.</li>
     </ul>
   </ul>
@@ -55,11 +57,11 @@ My two overseas experiences in the United States of America have shaped me as a 
     <li>Professor Ulrich Heintz's CMS group.</li>
     <li>June 2024 - August 2024</li>
     <ul>
+    <li style="margin-left:2em"><a href="./assets/files/Brown_Summer_Report_compressed.pdf">See Work Report</a></li>
     <li style="margin-left:2em">Assisting with the assembly and testing of High Luminosity CMS OT Silicon detectors.</li>
     <li style="margin-left:2em">Diode and Sensor testing using a probe station.</li>
     <li style="margin-left:2em">Experience working in a clean room.</li>
     <li style="margin-left:2em">Development of a protocole for transporting modules and creation of a <a href="https://brownhep.github.io/2sassemblyfiles/2024/07/22/carrier_box.html">web tutorial</a>.</li>
-    <li style="margin-left:2em"><a href="./assets/files/Brown_Summer_Report_compressed.pdf">Work Report</a></li>
     
     </ul>
   </ul>
