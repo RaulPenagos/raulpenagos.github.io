@@ -18,7 +18,7 @@ My two overseas experiences in the United States of America have shaped me as a 
 # Education
 - **University of Cantabria**
     - Undergrad - Physics
-    - 2021-Present. <a href="./assets/files/CalificacionesExpediente.pdf">See Grades Report</a>
+    - 2021-Present. <a href="./assets/files/CalificacionesExpediente_NoID.pdf">See Grades Report</a>
 - **IES Ntra. Sra. de los Remedios**
     - Science and Technology Bachelor (2<sup>nd</sup> year)
 - **Neshoba Central High-School**
