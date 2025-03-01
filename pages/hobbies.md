@@ -26,12 +26,14 @@ so I can include one pciture easily for every hobbie -->
   <h3>Photography</h3>
   <p><b>For me, photography is the way to freely play with light in order to replicate or alter the reality as desired. I enjoy learning the technique and practicing with my digital camera while capturing moments.</b></p>
   <a href=""><span class="card-link-spanner"></span></a>
+  <img src="/assets/img/hobbies/photography.jpg">
 </div>
 
 <div class="card">
   <h3>Admiring Nature</h3>
   <p><b>I was raised in a town next to Cabarceno Nature Park, where I have had always the privilege to admire the beauty of worldwide nature. </b></p>
   <a href=""><span class="card-link-spanner"></span></a>
+  <img src="/assets/img/hobbies/nature.jpg">
 </div>
 
 <div class="card">
