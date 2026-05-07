@@ -9,16 +9,27 @@ layout: default
 # About Me
 
 <!-- TENGO QUE CAMBIAR EL LOGO (Pestañas) DE LA WEB -->
-My name is **Raúl Penagos Solórzano**, I am a Physics student at University of Cantabria. I keen on the medical, industrial and environmental applications of my academic field of study: Physic, which I find to be a main root to understand today's world. I am a very dedicated and trustworthy person that feels specially rewarded when doing his best. 
+Physics graduate 
 
-My two overseas experiences in the United States of America have shaped me as a really open minded and self-aware individual, who has a lot to learn and give when working with others. I picture myself as an open book, willing to write new chapters in my story.  
+
+My name is **Raúl Penagos Solórzano**, I am a Physics graduate with strong quantitative, programming skills and relentless curiosity. Currently, I pursue an Interuniversitary Master in Banking and Quantitative Finance at Universidad Complutense de Madrid. I seek to apply mathematical modeling, statistical analysis expertise and machine learning skills to quantitative challenges. 
+
+I studied Physics at University of Cantabria from 2021 to 2025, along my degree I have always been really keen on its applied posibilities: the medical, industrial, or environmental applications that show the power and commitment of science and mathematics into improving everyday's world. Thanks to the proficient Python coding, data intepretation and analysis, and mathematical skills gained during research projects in particle physics, I seek to create added value to our society, through the fascinating world od data and finance, a fundamental engine to  social and economical growth. 
+
+My two overseas experiences in the United States of America have shaped me into a really open minded and self-aware individual, who has a lot to learn and give when working with others. I picture myself as a very dedicated, hardwaorking and trustworthy person who feels specially rewarded when doing his best. 
+
+
+
 
 <hr>
 
 # Education
+- **Universidad Complutense de Madrid**
+    - MSc in Quantitative Finance and Banking 
+    - 2025 - 2027
 - **University of Cantabria**
     - Undergrad - Physics
-    - 2021-Present. <a href="./assets/files/CalificacionesExpediente_NoID.pdf">See Grades Report</a>
+    - 2021 - 2025. <a href="./assets/files/GradeTranscript_Raul_Penagos_NoDNI.pdf">See my Grades Report</a>
 - **IES Ntra. Sra. de los Remedios**
     - Science and Technology Bachelor (2<sup>nd</sup> year)
 - **Neshoba Central High-School**
@@ -27,6 +38,7 @@ My two overseas experiences in the United States of America have shaped me as a 
 <hr>
 
 ### Aditional training
+- MicroStation OpenRoads Professional User <a href="./assets/files/BentleyAccreditedMicroStationProfessional.pdf">Credly Certificate</a>
 - Lab safety training: <a href="./assets/files/certificateLabSafety.pdf">Brown University</a>
 - Waste Treatment training: <a href="./assets/files/certificateWasteTreatment.pdf">Brown University</a>
 - Basic Fire extinguishing training: Brown University
@@ -35,6 +47,21 @@ My two overseas experiences in the United States of America have shaped me as a 
 <hr>
 
 # Experience
+
+
+<div class="card">
+<img src="/assets/img/spiral.png" style="float:right;height:50px;">
+  <h3>3D Road Design: SPIRAL</h3>
+  <ul>
+    <li>SProjects in Rails and Lanes</li>
+    <li>Summer 2025 </li>
+    <ul>
+    <li style="margin-left:2em"> I worked in an Civil Design Engineering office collaborating in international highway projects. I focused on 3D-modeling of US Interstate intersections using MicroSation and OpenRoads software, as well as basic data analysis with Excel in order to ensure that roads comply with existing normatives.</li>
+      <li style="margin-left:2em">Over the summer, I went from basic CAD (Computed-Aided Design) skills on to becoming a professionally certified Bentley MicroStation User.</li>
+    </ul>
+  </ul>
+</div>
+
 
 <div class="card">
 <img src="/assets/img/UC.png" style="float:right;height:50px;">
@@ -45,6 +72,7 @@ My two overseas experiences in the United States of America have shaped me as a 
     <ul>
     <li style="margin-left:2em">Undergrad research, TFG. Beca MEC (Ministerio de Educación y Ciencia de España)</li>
     <li style="margin-left:2em">Working on assembly and development of a Proton Axial Tomography (TAC) medical image system using CMS Inner tracker ETL detectors.</li>
+    <!-- <li style="margin-left:2em"><a href="./assets/files/******.pdf">Check out my final Work memory</a></li> -->
     </ul>
   </ul>
 </div>
@@ -57,7 +85,7 @@ My two overseas experiences in the United States of America have shaped me as a 
     <li>Professor Ulrich Heintz's CMS group.</li>
     <li>June 2024 - August 2024</li>
     <ul>
-    <li style="margin-left:2em"><a href="./assets/files/Brown_Summer_Report_compressed.pdf">See Work Report</a></li>
+    <li style="margin-left:2em"><a href="./assets/files/Brown_Summer_Report_compressed.pdf">See my Work Report</a></li>
     <li style="margin-left:2em">Assisting with the assembly and testing of High Luminosity CMS OT Silicon detectors.</li>
     <li style="margin-left:2em">Diode and Sensor testing using a probe station.</li>
     <li style="margin-left:2em">Experience working in a clean room.</li>
@@ -99,13 +127,21 @@ My two overseas experiences in the United States of America have shaped me as a 
         - Matplotlib
         - Numpy
     - **Matlab**
+    - **VBA**
+    - **R**
 - **Software**
     - **ImageJ**
     - **Geant4**
 - **GitHub Branching**
 - **Data Analysis**
-    - **Excel**
-    - **Jupyter Notebook**
+    - **Excel and VBA**
+    - **Jupyter Notebooks**
+- **Finance and Statistics**
+    - *Stochastic Processes*
+    - *Statistics*
+    - *Derivatives*
+    - *Risk Management*
+    - *Numerical Calculus*
 - **Physics**
     - *Radiophysics*
     - *Physics of Earth*
@@ -128,7 +164,7 @@ My two overseas experiences in the United States of America have shaped me as a 
 
 <!-- [... See all projects](./projects) -->
 
-[... Some of my hobbies](./hobbies)
+[... See some of my hobbies](./hobbies)
 
 
 <!-- 
