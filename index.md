@@ -16,7 +16,7 @@ My name is **Raúl Penagos Solórzano**, I am a Physics graduate with strong qua
 
 I studied Physics at University of Cantabria from 2021 to 2025, along my degree I have always been really keen on its applied posibilities: the medical, industrial, or environmental applications that show the power and commitment of science and mathematics into improving everyday's world. Thanks to the proficient Python coding, data intepretation and analysis, and mathematical skills gained during research projects in particle physics, I seek to create added value to our society, through the fascinating world od data and finance, a fundamental engine to  social and economical growth. 
 
-My two overseas experiences in the United States of America have shaped me into a really open minded and self-aware individual, who has a lot to learn and give when working with others. I picture myself as a very dedicated, hardwaorking and trustworthy person who feels specially rewarded when doing his best. 
+My two overseas experiences in the United States of America have shaped me into a really open minded and self-aware individual, who has a lot to learn and give when working with others. I picture myself as a very dedicated, hardworking and trustworthy person who feels specially rewarded when doing his best. 
 
 
 
@@ -28,7 +28,7 @@ My two overseas experiences in the United States of America have shaped me into 
     - MSc in Quantitative Finance and Banking 
     - 2025 - 2027
 - **University of Cantabria**
-    - Undergrad - Physics
+    - Graduate in Physics
     - 2021 - 2025. <a href="./assets/files/GradeTranscript_Raul_Penagos_NoDNI.pdf">See my Grades Report</a>
 - **IES Ntra. Sra. de los Remedios**
     - Science and Technology Bachelor (2<sup>nd</sup> year)
@@ -38,7 +38,7 @@ My two overseas experiences in the United States of America have shaped me into 
 <hr>
 
 ### Aditional training
-- MicroStation OpenRoads Professional User <a href="./assets/files/BentleyAccreditedMicroStationProfessional.pdf">Credly Certificate</a>
+- MicroStation OpenRoads Professional User: <a href="./assets/files/BentleyAccreditedMicroStationProfessional.pdf">Credly Certificate</a>
 - Lab safety training: <a href="./assets/files/certificateLabSafety.pdf">Brown University</a>
 - Waste Treatment training: <a href="./assets/files/certificateWasteTreatment.pdf">Brown University</a>
 - Basic Fire extinguishing training: Brown University
@@ -54,7 +54,7 @@ My two overseas experiences in the United States of America have shaped me into 
   <h3>3D Road Design: SPIRAL</h3>
   <ul>
     <li>SProjects in Rails and Lanes</li>
-    <li>Summer 2025 </li>
+    <li>July 2025 - September 2025</li>
     <ul>
     <li style="margin-left:2em"> I worked in an Civil Design Engineering office collaborating in international highway projects. I focused on 3D-modeling of US Interstate intersections using MicroSation and OpenRoads software, as well as basic data analysis with Excel in order to ensure that roads comply with existing normatives.</li>
       <li style="margin-left:2em">Over the summer, I went from basic CAD (Computed-Aided Design) skills on to becoming a professionally certified Bentley MicroStation User.</li>
@@ -68,7 +68,7 @@ My two overseas experiences in the United States of America have shaped me into 
   <h3>Beca Colaboración Investigación MEC</h3>
   <ul>
     <li>Professor Pablo Martinez Ruiz del Arbol, IFCA</li>
-    <li>November 2024 - present</li>
+    <li>November 2024 - June 2025</li>
     <ul>
     <li style="margin-left:2em">Undergrad research, TFG. Beca MEC (Ministerio de Educación y Ciencia de España)</li>
     <li style="margin-left:2em">Working on assembly and development of a Proton Axial Tomography (TAC) medical image system using CMS Inner tracker ETL detectors.</li>
