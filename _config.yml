@@ -1,11 +1,14 @@
-title: Raúl Penagos Solórzano
+title: Raúl Penagos Solórzano | Personal Portfolio
 logo: /assets/img/logo.jpg
 email: raul.penagos@hotmail.es
 phone: 942 000 000
 address: Cantabria, Spain
-description: Portfolio
+description: Official Raul Penagos website
+author: Raúl Penagos Solórzano
 favicon: true
 color-scheme: dark
+url: "https://raulpenagos.github.io"
+plugins: [jekyll-seo-tag]  # SEO para posionar web
 
 plugins:
   - jekyll-sitemap
