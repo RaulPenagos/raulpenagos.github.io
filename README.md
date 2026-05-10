@@ -17,8 +17,14 @@ Serve page:
 3. En Google Search Console, elegí Prefijo de la URL
 4. Puse la url y copie el archivo googlebd2b304d359395aa.html
 5. Una vez publico actualizado en github click en 'Verificar'
+
+6. Facilitar el sitemap
+
+7. Inspeccionar url: Solicitar indexación
  -->
 
+
+<!-- Sitemap:  ir  a https://raulpenagos.github.io/sitemap.xml -->
 
     
 My portfolio built using [Minimalistic](https://github.com/vaibhavvikas/jekyll-theme-minimalistic).

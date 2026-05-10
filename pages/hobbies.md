@@ -1,6 +1,8 @@
 ---
 layout: default
 permalink: /hobbies
+title: Raúl Penagos - Hobbies Page
+description: Welcome! here you will find about my hobbies 
 ---
 **[Home](/) >> Hobbies**
 
