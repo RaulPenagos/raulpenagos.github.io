@@ -9,13 +9,7 @@ description: Welcome! here you will find about my education and job experience
 <hr>
 
 # About Me
-<!-- Utilizando google search console 
-1.  En _config.yml añadí la línea      plugins: [jekyll-seo-tag]
-2. En _layouts/default.html comprobé que ponga {% seo %}
-3. En Google Search Console, elegí Prefijo de la URL
-4. Puse la url y copie el archivo googlebd2b304d359395aa.html
-5. Una vez publico actualizado en github click en 'Verificar'
- -->
+
 <!-- TENGO QUE CAMBIAR EL LOGO (Pestañas) DE LA WEB -->
 
 My name is **Raúl Penagos Solórzano**, I am a Physics graduate with strong quantitative, programming skills and relentless curiosity. Currently, I pursue an Interuniversitary Master in Banking and Quantitative Finance at Universidad Complutense de Madrid. I seek to apply mathematical modeling, statistical analysis expertise and machine learning skills to quantitative challenges. 

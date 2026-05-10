@@ -8,6 +8,18 @@ Fix missing gems:
 Serve page:
     jekyl serve 
     -->
+
+
+<!-- Para posicoinar la web SEO -->
+<!-- Utilizando google search console 
+1.  En _config.yml añadí la línea      plugins: [jekyll-seo-tag]
+2. En _layouts/default.html comprobé que ponga {% seo %}
+3. En Google Search Console, elegí Prefijo de la URL
+4. Puse la url y copie el archivo googlebd2b304d359395aa.html
+5. Una vez publico actualizado en github click en 'Verificar'
+ -->
+
+
     
 My portfolio built using [Minimalistic](https://github.com/vaibhavvikas/jekyll-theme-minimalistic).
 
