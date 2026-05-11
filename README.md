@@ -23,6 +23,8 @@ Serve page:
 7. Inspeccionar url: Solicitar indexación
  -->
 
+ <!-- "Verificar la propiedad del dominio mediante registro DNS"   Es solo posible con dominios registrados, y no con un .github.io-->
+
 
 <!-- Sitemap:  ir  a https://raulpenagos.github.io/sitemap.xml -->
 
