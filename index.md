@@ -122,33 +122,34 @@ My two overseas experiences in the United States of America have shaped me into 
 <hr>
 
 
-# Skills
+# Skills:
 - **Programming languages**
-    - **Python**
+    - *Python*
         - Matplotlib
         - Numpy
         - Scipy
         - Pytorch
         - Pandas
-    - **Matlab**
-    - **VBA**
-    - **R**
+        - Jupyter Notebooks
+    - *Matlab*
+    - *VBA*
+    - *R*
 - **Software**
-    - **ImageJ**
-    - **Geant4**
+    - *ImageJ*
+    - *Geant4*
 - **GitHub Branching**
 - **Data Analysis**
-    - **Excel and VBA**
-    - **Jupyter Notebooks**
+    - *Excel and VBA*
+    - *Jupyter Notebooks*
 - **Finance and Statistics**
     - *Stochastic Processes*
     - *Statistics*
     - *Derivatives*
-    - *Risk Management*
     - *Numerical Calculus*
+    - *Risk Management*
 - **Physics**
     - *Radiophysics*
-    - *Physics of Earth*
+    - *Physics of the Earth*
     - *Optics*
     - *Quantum Mechanics*
     - *Thermodynamics*
@@ -156,10 +157,10 @@ My two overseas experiences in the United States of America have shaped me into 
     - *Particle Physics*
 - **Latex**
 - **Website developing**
-    - **HTML**
-    - **CSS**
-    - **Markdown**
-    - **Jekyll**
+    - *HTML and CSS*
+    - *Markdown*
+    - *Jekyll* 
+    - *SEO* 
 - **Photography**
 
 <hr>
